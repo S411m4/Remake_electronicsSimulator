@@ -4,7 +4,7 @@ A remake of my first full VR experience and unity project 2 years ago. This vers
 **app page for more details about the process:**
 https://s411m4.github.io/ElectronicsSimulator.html
 
-**app video: **
+**app video:**
 
 
 
