@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8cbeaf571177f04098cfc796092475f, type: 3}
+  m_Name: ResistorBandColorsSO
+  m_EditorClassIdentifier: 
+  red: {fileID: 2100000, guid: 8a35058cfc43f25458f06eb248bf2b43, type: 2}
+  yellow: {fileID: 2100000, guid: 35775130a4db270449099638d4b185aa, type: 2}
+  orange: {fileID: 2100000, guid: 707e9cefb9fea1f44bad90aaec47aa54, type: 2}
+  green: {fileID: 2100000, guid: a905fd36da17e9c4a9e7e77d12785dbf, type: 2}
+  blue: {fileID: 2100000, guid: bc0f95718ab06504cbcb8518791f8822, type: 2}
+  violet: {fileID: 2100000, guid: a51fb532757d1ce4b8393e56b639462e, type: 2}
+  white: {fileID: 2100000, guid: a959789165f90764fac9c8b7168e0d3f, type: 2}
+  grey: {fileID: 2100000, guid: 7e3ec53465faf164d960c5a0284e848d, type: 2}
+  brown: {fileID: 2100000, guid: 79d2ebd5ebcb84146a132a22861b6e6c, type: 2}
+  black: {fileID: 2100000, guid: 1bfd660f5b26a754784b10c9de697248, type: 2}
+  gold: {fileID: 2100000, guid: d9715852a78fb78498209f62ada69996, type: 2}
