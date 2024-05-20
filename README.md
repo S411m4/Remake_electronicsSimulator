@@ -4,7 +4,4 @@ A remake of my first full VR experience and unity project 2 years ago. This vers
 app page for more details about the process:
 https://s411m4.github.io/ElectronicsSimulator.html
 
-[![Watch the video]()](https://www.youtube.com/watch?v=9_q3RJvoOyU)
-
-
-[![Watch the video]([https://img.youtube.com/vi/<VIDEO_ID>](https://www.youtube.com/watch?v=9_q3RJvoOyU)/hqdefault.jpg)](https://www.youtube.com/embed/9_q3RJvoOyU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_q3RJvoOyU?si=9MAz_A7Ekl3jf3iC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
