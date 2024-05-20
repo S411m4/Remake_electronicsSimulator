@@ -5,4 +5,4 @@ app page for more details about the process:
 https://s411m4.github.io/ElectronicsSimulator.html
 
 
-[![Watch the video](https://www.youtube.com/vi/9_q3RJvoOyU/0.jpg)](https://www.youtube.com/watch?v=9_q3RJvoOyU)
+[![Watch the video](https://img.youtube.com/vi/9_q3RJvoOyU/0.jpg)](https://www.youtube.com/watch?v=9_q3RJvoOyU)
